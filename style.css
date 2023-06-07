@@ -148,7 +148,7 @@ a {
   .img-container{
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 80%;
     align-items: center;
   }
 
@@ -189,9 +189,14 @@ a {
   }
 
   img{
-    height: 200px;
+    height: 100px;
   }
 
   main{
     min-height: 71vh;
+  }
+
+  /****************CLASE 9******************/
+  .greeting{
+    text-align: center;
   }
